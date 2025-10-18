@@ -53,7 +53,7 @@ function parseAmount(str) {
 module.exports.config = {
   name: "bet",
   version: "1.2.0",
-  author: "Akash × ChatGPT",
+  author: "Mehedi × ChatGPT",
   countDown: 5,
   role: 0,
   shortDescription: "Place a bet and win 3x–50x coins!",
