@@ -8,7 +8,7 @@ module.exports = {
     name: "gan",
     version: "1.0.0",
     role: 0,
-    author: "𝐀𝐊𝐀𝐒𝐇",
+    author: "Mehedi",
     shortDescription: "Play random song with prefix command 🎶",
     longDescription: "Sends a random mp3 song from a preset list (Google Drive direct links).",
     category: "music",
