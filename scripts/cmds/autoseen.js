@@ -10,7 +10,7 @@ module.exports = {
   config: {
     name: "autoseen",
     version: "2.0",
-    author: "Mohammad Akash",
+    author: "Mehedi Hassan",
     countDown: 0,
     role: 2,
     shortDescription: "স্বয়ংক্রিয়ভাবে seen সিস্টেম",
