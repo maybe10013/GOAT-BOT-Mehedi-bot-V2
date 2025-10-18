@@ -6,7 +6,7 @@ module.exports = {
   config: {
     name: "text_voice",
     version: "1.1.0",
-    author: "Mohammad Akash",
+    author: "Mehedi Hassan",
     countDown: 5,
     role: 0,
     shortDescription: "নির্দিষ্ট টেক্সটে কিউট মেয়ের ভয়েস প্লে করে 😍",
